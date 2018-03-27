@@ -1,0 +1,129 @@
+@media (min-width: 100px) and (max-width: 575px){
+    
+    .article_feature{
+min-height: 140px;
+}
+
+.add{
+    min-height: 140px;
+    margin-top: 40px;
+}
+
+.article_listing{
+    min-height: 100px;
+}
+
+.sidebar{
+  margin-top: 10px;
+    min-height: 170px;
+}
+
+.padding-right{
+      padding-left: 0px;
+    }
+
+.sidebar_feature{
+     min-height: 100px;
+}
+
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+.article_feature{
+min-height: 140px;
+}
+
+.add{
+    min-height: 140px;
+    margin-top: 40px;
+}
+
+.article_listing{
+    
+}
+
+.sidebar{
+  margin-top: 10px;
+    min-height: 170px;
+}
+
+.padding-right{
+      padding-left: 0px;
+    }
+
+.sidebar_feature{
+     min-height: 100px;
+}
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767px){
+    
+    .article_feature{
+min-height: 140px;
+}
+
+.add{
+    min-height: 140px;
+    margin-top: 40px;
+}
+
+.article_listing{
+    
+}
+
+.sidebar{
+  margin-top: 10px;
+    min-height: 170px;
+}
+
+.padding-right{
+      padding-left: 0px;
+    }
+
+.sidebar_feature{
+     min-height: 100px;
+}
+
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+.article_feature{
+min-height: 140px;
+}
+
+.add{
+    min-height: 140px;
+    margin-top: 40px;
+}
+
+.article_listing{
+    
+}
+
+.sidebar{
+  margin-top: 10px;
+    min-height: 170px;
+}
+
+.padding-right{
+      padding-left: 0px;
+    }
+
+.sidebar_feature{
+     min-height: 100px;
+}
+
+}
+
+@media (min-width: 992px) { }
+
+@media (min-width: 1200px) { }
